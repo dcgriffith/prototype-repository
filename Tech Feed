@@ -1,0 +1,19 @@
+<html>
+	<head>
+		<title>TechFeed</title>
+	</head>
+
+	<h1>Raycon Global, Inc.</h1>	
+
+	<p>This is the paragraph</p>
+
+	<p><center> the paragraph starts from center</center></p>
+adding a link to a website
+	<a
+href="www.youtube.com">youtube</a>
+	<body bgcolor="red">
+
+	</body>
+
+<p><font color="yellow">this is a font color</font></p>
+</html>
